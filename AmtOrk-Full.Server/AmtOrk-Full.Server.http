@@ -1,0 +1,6 @@
+@Empty.Server_HostAddress = http://localhost:5014
+
+GET {{Empty.Server_HostAddress}}/api/
+Accept: application/json
+
+###
