@@ -439,12 +439,6 @@
         <mxCell id="A4v52sttCuoAIZNRm9rw-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font color=&quot;#ededed&quot;&gt;&amp;lt;Land Name&amp;gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: light-dark(rgb(237, 237, 237), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;lt;Kingdom Name&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: light-dark(rgb(237, 237, 237), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;About: &lt;/b&gt;&lt;span style=&quot;color: light-dark(rgb(237, 237, 237), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam scelerisque nisl libero, eget cursus dolor tempus at. Integer congue, leo vel lobortis rhoncus, magna neque feugiat sapien, quis viverra est magna at nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam imperdiet sapien nisl, ultrices consequat lacus dictum eget. Pellentesque molestie aliquet faucibus.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#ededed&quot;&gt;&amp;lt;Kingdom Name&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="A4v52sttCuoAIZNRm9rw-1">
           <mxGeometry x="430" y="70" width="630" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="A4v52sttCuoAIZNRm9rw-21" value="&lt;font style=&quot;color: light-dark(rgb(237, 237, 237), rgb(237, 237, 237));&quot;&gt;Lands&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="A4v52sttCuoAIZNRm9rw-1">
-          <mxGeometry x="220" y="280" width="410" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="A4v52sttCuoAIZNRm9rw-22" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#444444,#444444);strokeColor=none;" vertex="1" parent="A4v52sttCuoAIZNRm9rw-1">
-          <mxGeometry x="220" y="300" width="410" height="280" as="geometry" />
-        </mxCell>
         <mxCell id="A4v52sttCuoAIZNRm9rw-23" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#444444,#444444);strokeColor=none;" vertex="1" parent="A4v52sttCuoAIZNRm9rw-1">
           <mxGeometry x="220" y="600" width="840" height="120" as="geometry" />
         </mxCell>
@@ -452,19 +446,13 @@
           <mxGeometry x="220" y="580" width="840" height="21" as="geometry" />
         </mxCell>
         <mxCell id="A4v52sttCuoAIZNRm9rw-25" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#444444,#444444);strokeColor=none;" vertex="1" parent="A4v52sttCuoAIZNRm9rw-1">
-          <mxGeometry x="650" y="300" width="410" height="280" as="geometry" />
+          <mxGeometry x="220" y="300" width="840" height="280" as="geometry" />
         </mxCell>
         <mxCell id="A4v52sttCuoAIZNRm9rw-26" value="&lt;font style=&quot;color: light-dark(rgb(237, 237, 237), rgb(237, 237, 237));&quot;&gt;Events&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="A4v52sttCuoAIZNRm9rw-1">
-          <mxGeometry x="650" y="280" width="410" height="20" as="geometry" />
+          <mxGeometry x="220" y="280" width="840" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A4v52sttCuoAIZNRm9rw-27" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#C7C7C7,#C7C7C7);strokeColor=none;" vertex="1" parent="A4v52sttCuoAIZNRm9rw-1">
           <mxGeometry x="1478" y="40" width="904" height="680" as="geometry" />
-        </mxCell>
-        <mxCell id="A4v52sttCuoAIZNRm9rw-28" value="&lt;font style=&quot;&quot;&gt;Lands&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=light-dark(#000000,#000000);" vertex="1" parent="A4v52sttCuoAIZNRm9rw-1">
-          <mxGeometry x="1510" y="280" width="410" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="A4v52sttCuoAIZNRm9rw-29" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#CCCCCC,#CCCCCC);strokeColor=none;" vertex="1" parent="A4v52sttCuoAIZNRm9rw-1">
-          <mxGeometry x="1510" y="300" width="410" height="280" as="geometry" />
         </mxCell>
         <mxCell id="A4v52sttCuoAIZNRm9rw-30" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#CCCCCC,#CCCCCC);strokeColor=none;" vertex="1" parent="A4v52sttCuoAIZNRm9rw-1">
           <mxGeometry x="1510" y="600" width="840" height="120" as="geometry" />
@@ -473,10 +461,10 @@
           <mxGeometry x="1510" y="580" width="840" height="21" as="geometry" />
         </mxCell>
         <mxCell id="A4v52sttCuoAIZNRm9rw-32" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#CCCCCC,#CCCCCC);strokeColor=none;" vertex="1" parent="A4v52sttCuoAIZNRm9rw-1">
-          <mxGeometry x="1940" y="300" width="410" height="280" as="geometry" />
+          <mxGeometry x="1510" y="300" width="840" height="280" as="geometry" />
         </mxCell>
         <mxCell id="A4v52sttCuoAIZNRm9rw-33" value="&lt;font style=&quot;&quot;&gt;Events&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=light-dark(#000000,#000000);" vertex="1" parent="A4v52sttCuoAIZNRm9rw-1">
-          <mxGeometry x="1940" y="280" width="410" height="20" as="geometry" />
+          <mxGeometry x="1510" y="280" width="840" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A4v52sttCuoAIZNRm9rw-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;Land Name&amp;gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;lt;Kingdom Name&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;About:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam scelerisque nisl libero, eget cursus dolor tempus at. Integer congue, leo vel lobortis rhoncus, magna neque feugiat sapien, quis viverra est magna at nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam imperdiet sapien nisl, ultrices consequat lacus dictum eget. Pellentesque molestie aliquet faucibus.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;&amp;lt;Kingdom Name&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="A4v52sttCuoAIZNRm9rw-1">
           <mxGeometry x="1720" y="70" width="630" height="140" as="geometry" />
