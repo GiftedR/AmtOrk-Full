@@ -1,0 +1,66 @@
+[
+	{
+		"Id" : 1,
+		"ClassName" : "Anti-Paladin"
+	},
+	{
+		"Id" : 2,
+		"ClassName" : "Archer"
+	},
+	{
+		"Id" : 3,
+		"ClassName" : "Assassin"
+	},
+	{
+		"Id" : 4,
+		"ClassName" : "Barbarian"
+	},
+	{
+		"Id" : 5,
+		"ClassName" : "Bard"
+	},
+	{
+		"Id" : 6,
+		"ClassName" : "Color"
+	},
+	{
+		"Id" : 7,
+		"ClassName" : "Druid"
+	},
+	{
+		"Id" : 8,
+		"ClassName" : "Healer"
+	},
+	{
+		"Id" : 9,
+		"ClassName" : "Monk"
+	},
+	{
+		"Id" : 10,
+		"ClassName" : "Monster"
+	},
+	{
+		"Id" : 11,
+		"ClassName" : "Paladin"
+	},
+	{
+		"Id" : 12,
+		"ClassName" : "Peasant"
+	},
+	{
+		"Id" : 13,
+		"ClassName" : "Reeve"
+	},
+	{
+		"Id" : 14,
+		"ClassName" : "Scout"
+	},
+	{
+		"Id" : 15,
+		"ClassName" : "Warrior"
+	},
+	{
+		"Id" : 16,
+		"ClassName" : "Wizard"
+	}
+]

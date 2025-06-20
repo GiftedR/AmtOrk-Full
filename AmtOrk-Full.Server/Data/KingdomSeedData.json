@@ -1,0 +1,122 @@
+[
+	{
+		"Id" : 1,
+		"KingdomName" : "13 Roads",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0038.jpg"
+	},
+	{
+		"Id" : 2,
+		"KingdomName" : "Kingdom of Desert Winds",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0018.jpg"
+	},
+	{
+		"Id" : 3,
+		"KingdomName" : "The Celestial Kingdom",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0014.jpg"
+	},
+	{
+		"Id" : 4,
+		"KingdomName" : "The Empire of Rivermoor",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0022.jpg"
+	},
+	{
+		"Id" : 5,
+		"KingdomName" : "The Empire of the Iron Mountains",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0003.jpg"
+	},
+	{
+		"Id" : 6,
+		"KingdomName" : "The Freeholds of Amtgard",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0008.jpg"
+	},
+	{
+		"Id" : 7,
+		"KingdomName" : "The Kingdom of Blackspire",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0016.jpg"
+	},
+	{
+		"Id" : 8,
+		"KingdomName" : "The Kingdom of Burning Lands",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0007.jpg"
+	},
+	{
+		"Id" : 9,
+		"KingdomName" : "The Kingdom of Crystal Groves",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0017.jpg"
+	},
+	{
+		"Id" : 10,
+		"KingdomName" : "The Kingdom of Dragonspine",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0012.jpg"
+	},
+	{
+		"Id" : 11,
+		"KingdomName" : "The Kingdom of Goldenvale",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0004.jpg"
+	},
+	{
+		"Id" : 12,
+		"KingdomName" : "The Kingdom of Neverwinter",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0005.jpg"
+	},
+	{
+		"Id" : 13,
+		"KingdomName" : "The Kingdom of Northern Lights",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0020.jpg"
+	},
+	{
+		"Id" : 14,
+		"KingdomName" : "The Kingdom of Northreach",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0036.jpg"
+	},
+	{
+		"Id" : 15,
+		"KingdomName" : "The Kingdom of Polaris",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0027.jpg"
+	},
+	{
+		"Id" : 16,
+		"KingdomName" : "The Kingdom of Tal Dagore",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0019.jpg"
+	},
+	{
+		"Id" : 17,
+		"KingdomName" : "The Kingdom of the Emerald Hills",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0006.jpg"
+	},
+	{
+		"Id" : 18,
+		"KingdomName" : "The Kingdom of the Golden Plains",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0011.jpg"
+	},
+	{
+		"Id" : 19,
+		"KingdomName" : "The Kingdom of the Nine Blades",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0031.jpg"
+	},
+	{
+		"Id" : 20,
+		"KingdomName" : "The Kingdom of the Rising Winds",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0010.jpg"
+	},
+	{
+		"Id" : 21,
+		"KingdomName" : "The Kingdom of the Wetlands",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0001.jpg"
+	},
+	{
+		"Id" : 22,
+		"KingdomName" : "The Kingdom of Viridian Outlands",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0025.jpg"
+	},
+	{
+		"Id" : 23,
+		"KingdomName" : "The Kingdom of Westmarch",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0021.jpg"
+	},
+	{
+		"Id" : 24,
+		"KingdomName" : "The Kingdom of Winters Edge",
+		"KingdomIconPath" : "https://ork.amtgard.com/assets/heraldry/kingdom/0024.jpg"
+	}
+]

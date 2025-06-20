@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "empty.client": {
+    "AmtOrk-Full.client": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -23,7 +23,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/empty.client",
+            "outputPath": "dist/AmtOrk-Full.client",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -69,10 +69,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "empty.client:build:production"
+              "buildTarget": "AmtOrk-Full.client:build:production"
             },
             "development": {
-              "buildTarget": "empty.client:build:development"
+              "buildTarget": "AmtOrk-Full.client:build:development"
             }
           },
           "defaultConfiguration": "development",

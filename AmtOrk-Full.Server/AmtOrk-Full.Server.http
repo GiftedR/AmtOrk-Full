@@ -1,6 +1,6 @@
-@Empty.Server_HostAddress = http://localhost:5014
+@AmtOrk-Full.Server_HostAddress = http://localhost:5014
 
-GET {{Empty.Server_HostAddress}}/api/
+GET {{AmtOrk-Full.Server_HostAddress}}/api/
 Accept: application/json
 
 ###
